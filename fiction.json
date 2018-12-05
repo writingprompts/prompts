@@ -1,0 +1,59 @@
+{
+  "schema": "http://writingprompts.xyz/schema/0.1.0/",
+  "prompts": [
+    {
+      "author": {
+        "name": "John Doe",
+        "url": "http://example.com/john_doe"
+      },
+      "license": {
+        "copyright": "2018 John Doe",
+        "shortName": "CC0 1.0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "prompt": {
+        "complexity": 2,
+        "genre": [
+          "Adventure"
+        ],
+        "text": "Lorem ipsum"
+      }
+    },
+    {
+      "author": {
+        "name": "John Doe",
+        "url": "http://example.com/john_doe"
+      },
+      "license": {
+        "copyright": "2018 John Doe",
+        "shortName": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "prompt": {
+        "complexity": 0,
+        "genre": [
+          "Fantasy"
+        ],
+        "text": "Lorem ipsum"
+      }
+    },
+    {
+      "author": {
+        "name": "John Doe",
+        "url": "http://example.com/john_doe"
+      },
+      "license": {
+        "copyright": "2018 John Doe",
+        "shortName": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "prompt": {
+        "complexity": 1,
+        "genre": [
+          "Comedy"
+        ],
+        "text": "Lorem ipsum"
+      }
+    }
+  ]
+}

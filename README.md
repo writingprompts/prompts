@@ -1,1 +1,1 @@
-# writingprompts.json
+# WritingPrompts/Prompts
